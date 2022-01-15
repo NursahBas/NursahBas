@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: https://medium.com/@nursahbas8
 
 Contact:
-📫 nursahbas8.gmail..com
+📫 mailto:nursahbas8.gmail..com
 
 <!--Linkler-->
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/NursahBas) 
