@@ -27,6 +27,14 @@ Contact:
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Junior Developer. I graduated from <a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://w3.sdu.edu.tr/" alt=""/>Süleyman Demirel University</a> Computer Engineering Department in 2021.
+I am a Junior Developer. I graduated from <a href="" target="blank"><img align="center" src="https://w3.sdu.edu.tr/" alt=""/>Süleyman Demirel University</a> Computer Engineering Department in 2021.
+  
+During my education period, I focused more on python language and java language. I also have a project that I have done for android development. You can find it in my repo:wink:
+
+I have a project that I have developed within the scope of Tubitak 2209-A. You can find my resources on this on my medium page.
+  
+I am currently developing myself on HTML-CSS and JavaScript.
+ 
+I am currently working as a mentee in <a href="" target="blank"><img align="center" src="https://teknovol.com.tr/" alt=""/>Teknovol Company</a>.
 
 
