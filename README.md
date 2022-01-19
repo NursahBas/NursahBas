@@ -15,7 +15,7 @@ Contact:
 <!--Linkler-->
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/NursahBas) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@nursahbas8) 
-[![Linkedin](https://linkedin.com/in/gautamkrishnar)](https://www.linkedin.com/in/nursahbas/) 
+[![Linkedin](https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png)](https://www.linkedin.com/in/nursahbas/) 
 
 
 
